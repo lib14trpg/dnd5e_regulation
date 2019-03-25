@@ -48,7 +48,7 @@
 
 　悪属性を禁止する。<br>
 　クレリックや「侍祭」の背景をもつキャラクターが崇拝する神格を選択する場合、「付録B」から神格を選ぶ場合、フォーゴトン・レルムの神々、ヒューマン以外の神々から選択することを推奨する。なお5版ではキャラクターシートに「神格」を書く欄がなくなったので、設定する必要がない。<br>
-　一方でフェイルーンをまたにかける5つの組織が存在する。こちらは[ベーシック・ルール](http://hobbyjapan.co.jp/dd/support/pdf/dnd_pl_br_ver2.pdf)の巻末付録、もしくは、[A Guide to the Factions of Faerûn](https://www.victoriaescapegames.com/wp-content/uploads/2018/01/DDAL_FACTION_GUIDE_v701.pdf)で確認することができる。勢力は神格に依らない方法でキャラクターの立ち位置を表現することができる経歴の一種である。これを「仲間や組織」に設定したり、「関わり深いもの」に設定したりしても構わない。
+　一方でフェイルーンをまたにかける5つの組織が存在する。こちらは[ベーシック・ルール](http://hobbyjapan.co.jp/dd/support/pdf/dnd_pl_br_ver2.pdf)の巻末付録、もしくは、[A Guide to the Factions of Faerûn](https://www.victoriaescapegames.com/wp-content/uploads/2018/01/DDAL_FACTION_GUIDE_v701.pdf)で確認することができる（日本語訳は[こちら](faction_guide.pdf)）。勢力は神格に依らない方法でキャラクターの立ち位置を表現することができる経歴の一種である。これを「仲間や組織」に設定したり、「関わり深いもの」に設定したりしても構わない。
 
 ### キャラクターの成長
 <b>特技</b>
